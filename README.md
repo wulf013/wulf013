@@ -12,6 +12,7 @@ I am currently working on a number of personal projects ranging from the visuali
 | C#       | Proficent  |
 | HTML/CSS | Knowledgable |
 | SQL | Knowledgable |
+| Rust | Knowledgable |
 
 ## Data Science Tools
 | Language | Library | Proficency |
