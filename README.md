@@ -1,5 +1,5 @@
 # About Me
-I am currently taking a year off from college, for various reasons; but primarily to give myself a break. I'm working on my BS of Computer Science at St. Mary's University, with minors in Mathematics and Philosophy. I have a passion for video games, data science, and the programming languages.
+I am currently taking more than a year off from college, for various reasons; but primarily to give myself a break. I'm working on my BS of Computer Science at St. Mary's University, with minors in Mathematics and Philosophy. I have a passion for video games, data science, and the programming languages.
 
 ## What I am working on
 I am currently working on a number of personal projects ranging from the visualization of nueral networks to video games. 
@@ -11,7 +11,7 @@ I am currently working on a number of personal projects ranging from the visuali
 | C/C++    | Proficent  |
 | Java     | Proficent  |
 | C#       | Proficent  |
-| HTML/CSS | Knowledgable |
+| HTML/CSS | Capable |
 | SQL | Knowledgable |
 | Rust | Knowledgable |
 
@@ -24,4 +24,5 @@ I am currently working on a number of personal projects ranging from the visuali
 | Python | NumPy | Proficent |
 | Python | Seaborn | Proficent |
 | Python | scikit-learn | Knowledgable | 
+| Python | openai | Knowledgable |
 
