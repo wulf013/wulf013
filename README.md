@@ -26,3 +26,10 @@ I am currently working on a number of personal projects ranging from the visuali
 | Python | scikit-learn | Knowledgable | 
 | Python | openai | Knowledgable |
 
+## Utility Tools
+|Language | Library | Proficency |
+| ------- | ------- | ---------- |
+| Python | pdfminersix | Proficent |
+| Python | pyyaml | Proficent |
+| Python | logging | Proficent |
+
